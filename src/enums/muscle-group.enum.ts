@@ -12,4 +12,7 @@ export enum MuscleGroup {
     BICEPS = 'BICEPS',
     ABS = 'ABS',
     UPPER_PART = 'UPPER_PART',
+    CORE_STABILITY = 'CORE_STABILITY',
+    CORE_STRENGTH = 'CORE_STRENGTH',
+    GLUTES = 'GLUTES',
 }
